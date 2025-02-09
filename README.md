@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar Atul</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India</h3>q
+
+<img align="right" alt="coding_gif" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3s3ho1UARmsEkuVVV0nDDv&ust=1739164725372000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKCWgs_rtYsDFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish-kumar-atul&label=Profile%20views&color=0e75b6&style=flat" alt="ashish-kumar-atul" /> </p>
 
