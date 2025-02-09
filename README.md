@@ -1,4 +1,4 @@
-<!-- ![logo]() -->
+![logo](https://github.com/Ashish-Kumar-Atul/Ashish-Kumar-Atul/blob/main/files/banner.jpeg)
 <h1 align="center">Hi 👋, I'm Ashish Kumar Atul</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
