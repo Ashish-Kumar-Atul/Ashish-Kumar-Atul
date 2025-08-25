@@ -1,6 +1,6 @@
 ![logo](https://github.com/Ashish-Kumar-Atul/Ashish-Kumar-Atul/blob/main/files/banner.png)
 <h1 align="center">Hi 👋, I'm Ashish Kumar Atul</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 <img align="right" alt="coding_gif" width="400" src="files/codegit.gif">
 <!-- <img align="right" alt="coding_gif" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> -->
@@ -10,7 +10,7 @@
 
 - 🌱 I’m a **Full Stack MERN Development.**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Data Structures and Algorithms in JAVA.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ashish-Kumar-Atul](https://github.com/Ashish-Kumar-Atul)
 
